@@ -1,0 +1,21 @@
+{
+  "name": "agent-tool-drawers",
+  "version": "0.1.0",
+  "description": "A lightweight tool drawer routing architecture for agent projects.",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "agent",
+    "tool-calling",
+    "tool-router",
+    "llm",
+    "mcp",
+    "companion-agent"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "docs"
+  ]
+}
